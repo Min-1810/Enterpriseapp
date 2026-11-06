@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FPT Enterprise Suite</string>
+
+    <!-- Auth -->
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_email">Email công ty</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login_button">ĐĂNG NHẬP</string>
+    <string name="login_forgot">Quên mật khẩu?</string>
+    <string name="login_welcome">Chào mừng trở lại!</string>
+    <string name="login_subtitle">Quản lý Nhân sự • Dự án • Bán hàng</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_dashboard">Tổng quan</string>
+    <string name="nav_employee">Nhân sự</string>
+    <string name="nav_project">Dự án</string>
+    <string name="nav_sales">Kinh doanh</string>
+    <string name="nav_profile">Cá nhân</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Hủy</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="save">Lưu</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="add">Thêm mới</string>
+    <string name="search">Tìm kiếm…</string>
+    <string name="loading">Đang tải…</string>
+    <string name="empty_data">Chưa có dữ liệu</string>
+    <string name="error_occurred">Đã có lỗi xảy ra</string>
+    <string name="success">Thành công!</string>
+    <string name="are_you_sure">Bạn có chắc chắn?</string>
+
+    <!-- Dashboard -->
+    <string name="dash_hello">Xin chào,</string>
+    <string name="dash_employee">Nhân sự</string>
+    <string name="dash_project">Dự án</string>
+    <string name="dash_revenue">Doanh thu</string>
+    <string name="dash_chart_title">📊 Doanh thu theo tháng</string>
+    <string name="dash_recent_tasks">🔔 Công việc gần đây</string>
+
+    <!-- Employee -->
+    <string name="employee_list_title">Danh sách nhân viên</string>
+    <string name="employee_add">Thêm nhân viên</string>
+    <string name="employee_name">Họ tên</string>
+    <string name="employee_email">Email</string>
+    <string name="employee_department">Phòng ban</string>
+    <string name="employee_position">Chức vụ</string>
+    <string name="employee_phone">Số điện thoại</string>
+    <string name="employee_role">Vai trò</string>
+    <string name="attendance_title">Chấm công</string>
+    <string name="attendance_checkin">Check-in</string>
+    <string name="attendance_checkout">Check-out</string>
+    <string name="attendance_history">Lịch sử chấm công</string>
+
+    <!-- Project -->
+    <string name="project_list_title">Danh sách dự án</string>
+    <string name="project_add">Tạo dự án</string>
+    <string name="project_name">Tên dự án</string>
+    <string name="project_desc">Mô tả</string>
+    <string name="project_deadline">Deadline</string>
+    <string name="project_manager">Quản lý</string>
+    <string name="project_progress">Tiến độ</string>
+    <string name="task_list_title">Công việc</string>
+    <string name="task_add">Thêm công việc</string>
+    <string name="task_title">Tiêu đề</string>
+    <string name="task_assignee">Người phụ trách</string>
+    <string name="task_status">Trạng thái</string>
+    <string name="task_priority">Độ ưu tiên</string>
+    <string name="task_estimated">Giờ dự kiến</string>
+    <string name="task_actual">Giờ thực tế</string>
+
+    <!-- Sales -->
+    <string name="customer_list_title">Danh sách khách hàng</string>
+    <string name="customer_add">Thêm khách hàng</string>
+    <string name="customer_name">Tên khách hàng</string>
+    <string name="customer_email">Email</string>
+    <string name="customer_phone">Số điện thoại</string>
+    <string name="customer_company">Công ty</string>
+    <string name="customer_address">Địa chỉ</string>
+
+    <string name="contract_list_title">Danh sách hợp đồng</string>
+    <string name="contract_add">Tạo hợp đồng</string>
+    <string name="contract_code">Mã hợp đồng</string>
+    <string name="contract_value">Giá trị (VNĐ)</string>
+    <string name="contract_signed">Ngày ký</string>
+    <string name="contract_end">Ngày kết thúc</string>
+    <string name="contract_status">Trạng thái</string>
+
+    <string name="transaction_list_title">Danh sách giao dịch</string>
+    <string name="transaction_add">Ghi nhận giao dịch</string>
+    <string name="transaction_amount">Số tiền</string>
+    <string name="transaction_date">Ngày thanh toán</string>
+    <string name="transaction_method">Phương thức</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Cá nhân</string>
+    <string name="profile_logout">Đăng xuất</string>
+    <string name="profile_settings">Cài đặt</string>
+    <string name="profile_notifications">Thông báo</string>
+</resources>

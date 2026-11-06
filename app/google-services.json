@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948278768175",
+    "project_id": "fpt-enterprise-2fdea",
+    "storage_bucket": "fpt-enterprise-2fdea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948278768175:android:2f9dd85cc3edaa2561ccda",
+        "android_client_info": {
+          "package_name": "com.fpt.enterpriseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDurPxCAVBFcr_7oYwR_4A-GoXxv-SsrHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
